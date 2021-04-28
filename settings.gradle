@@ -1,0 +1,4 @@
+rootProject.name = 'spring-boot-simples'
+include 'web1'
+include 'web2'
+
